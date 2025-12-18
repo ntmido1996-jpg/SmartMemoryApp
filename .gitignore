@@ -1,0 +1,40 @@
+# Android
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.jks
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.idea/
+*.hprof
+*.pyc
+*.swp
+*.swo
+*~
+
+# Android app
+app/build/
+app/app.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local configuration file (sdk path, etc)
+local.properties
